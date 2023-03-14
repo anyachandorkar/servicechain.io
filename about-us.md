@@ -7,10 +7,15 @@ layout: default
 # About Us 
 
 ## Vineet Tallavajhala 
+<img src="/bio_pics/vineet.jpg" width="90" height="90">
+      Vineet is a Data Science and Business Economics double major with interests in fintech, venture capital, and blockchain. After graduation, Vineet plans on joining Amazon Web Services on the CodeGuru Science team as a software engineer. In his free time Vineet likes playing basketball, watching the Kansas City Chiefs, and gaming. 
+      
+## John Mauricio 
+<img src="/bio_pics/john.jpg" width="90" height="90">
+      John Mauricio is a 4th year data science major at UCSD with a passion for exploring the intersection of machine learning and software development. His interest in this field has driven him to constantly seek out new ways to create and innovate, always pushing the boundaries of what is possible. After graduation he will be doing software engineering @Costar group. In his free time you can find him dropping buckets on your casual basketball player.
 
-<img src="/bio_pics/john.jpg" width="60" height="60">
-
-<img src="/bio_pics/anya.jpg" width="60" height="60">
+## Anya Chandorkar 
+<img src="/bio_pics/anya.jpg" width="90" height="90">
 
 <img src="/bio_pics/kristina.jpg" width="60" height="60">
 
