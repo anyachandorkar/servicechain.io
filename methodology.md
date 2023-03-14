@@ -24,7 +24,12 @@ The second contract is Service which enables the set of services that empower th
 
 These six functions represent the core functionalities of our decentralized web application and  allow us to create a service based application on the blockchain. 
 
-![sc_struct](sc_struct.png)
+![sc_struct](sc_struct.PNG)
+
+## App Structure 
+The _Factory_ and _Service_ smart contracts work with a custom built front end to enable the decentralized application. The front end is built using React.js, Next.js, as well as some basic Javascript. Below you can see the pipeline of our application making use of all of these technologies and can test these functionalities out by accessing our [Demo](./demo.html)
+
+![app_struct](app_struct.PNG)
 
 ## Data Usage 
 In the application of smart contracts, there is no data heavy process that involves cleaning, analysis, and modeling like many data driven projects. Many smart contracts do not rely on any data, and instead require data unique to users which will grow as more and more users use the product (the blockchain acquiring more data as time goes on). Within the Servicechain.io application, users data helps craft the blockchain from which much of the value of the application derives. That is, as more and more users use the application, more data regarding average tips, average ratings, and total hours worked are available to the user in the application.
