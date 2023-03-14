@@ -1,5 +1,8 @@
+DSC180 B10 Capstone
+
 [Methodology](./methodology.html)                              [Demo](./demo.html)                           [About Us](./about-us.html)
-<a href="Methodology">./methodology.html</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="Demo">./demo.html</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="About Us">./about-us.html</a>
+
+<a href="./methodology.html">Methodology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./demo.html">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./about-us.html">About Us</a>
 
 # Introduction
 
