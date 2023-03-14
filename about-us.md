@@ -6,10 +6,10 @@ layout: default
 
 # About Us 
 
-| Vineet Tallavajhala | Anya Chandorkar | John Mauricio | Column 4 |
+| Vineet Tallavajhala | Anya Chandorkar | John Mauricio | Kristina Shahatit |
 | --- | --- | --- | --- |
-| ![Image 1](/bio_pics/vineet.png){ width=50px } | ![Image 2](/bio_pics/anya.jpg/20x20) | ![Image 3](/bio_pics/john.jpg/20x20) | This is some text in column 4. |
-| This is some more text in column 1. | lsjs | This is some more text in column 3. | ![Image 4](/path/to/image4.jpg) |
+| ![Image 1](/bio_pics/vineet.png){ width=50px } | ![Image 2](/bio_pics/anya.jpg){ width=50px } | ![Image 3](/bio_pics/john.jpg){ width=50px } | ![Image 4](/bio_pics/kristina.jpg){ width=50px }  |
+| This is some more text in column 1. | lsjs | This is some more text in column 3. | kajdnknj |
 
 
 [back](./)
