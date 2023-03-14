@@ -5,7 +5,7 @@ layout: default
 <a href="./index.html">Introduction</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./methodology.html">Methodology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./demo.html">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./about-us.html">About Us</a>
 
 # Application Demo 
-Below you will get a walkthrough tutorial of the customer, employee, and user interfaces and can access our interactive react based front end here to try out the different functionalities yourself. 
+Below you will get a walkthrough tutorial of the customer, employee, and user interfaces and can access our interactive react based front end [here](https://servicechain-io.vercel.app/) to try out the different functionalities yourself. 
 
 ## Actors 
 * The company has the primary responsibility of setting up the instance of the factory contract where most of the services will take place and has the latter responsibility of monitoring and verifying employee submitted hours 
