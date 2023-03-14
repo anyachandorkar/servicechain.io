@@ -1,5 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 title: Servicechain.io, DSC180 B10 Capstone
-description: In today’s digital environment, building a credible professional reputation does not have many infallible platforms or applications. Especially in the service industry, it is hard to quantify tips, customer sentiment, and experience to carry on in a professional future. However with the use of blockchain technology’s immutable nature, network timestamps, and persistence based chaining, Servicechain.io presents a solution that can enforce a transparent and credible reputation as an employee.
+description: Empowering service workers using Distributed Internet Services 
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
