@@ -16,18 +16,18 @@ the company has the primary responsibility of setting up the instance of the fac
 ## Service Smart Contract 
 The second contract is Service which enables the set of services that empower the application which includes the functions _submitTip, sendRatings, getRatings, enterHours,_ and _getTotalHours_. 
 
-> _submitTip_ is a function that allows customers to transfer money from their wallet to the wallet of the employee
-> _sendRatings_ allow a customer to give a rating to an employee
-> _getRatings_ allow an employee to view the average ratings they have received from customers
-> _enterHours_ allow an employee to enter their current hours worked for an arbitrary time frame
-> _getTotalHours_ allow an employee to view their total hours they have worked since they started using the system
+> * _submitTip_ is a function that allows customers to transfer money from their wallet to the wallet of the employee
+> * _sendRatings_ allow a customer to give a rating to an employee
+> * _getRatings_ allow an employee to view the average ratings they have received from customers
+> * _enterHours_ allow an employee to enter their current hours worked for an arbitrary time frame
+> * _getTotalHours_ allow an employee to view their total hours they have worked since they started using the system
 
 These six functions represent the core functionalities of our decentralized web application and  allow us to create a service based application on the blockchain. 
 
 ![sc_struct](sc_struct.PNG)
 
 ## App Structure 
-The _Factory_ and _Service_ smart contracts work with a custom built front end to enable the decentralized application. The front end is built using React.js, Next.js, as well as some basic Javascript. Below you can see the pipeline of our application making use of all of these technologies and can test these functionalities out by accessing our [demo](./demo.html)
+The _Factory_ and _Service_ smart contracts work with a custom built front end to enable the decentralized application. The front end is built using React.js, Next.js, as well as some basic Javascript. Below you can see the pipeline of our application making use of all of these technologies and can test these functionalities out by accessing our [demo](./demo.html). 
 
 ![app_struct](app_struct.PNG)
 
