@@ -9,13 +9,13 @@ layout: default
 <table>
   <tr>
     <td>
-      <img src="/bio_pics/vineet.png" width="20" height="20">
+      <img src="/bio_pics/vineet.png" width="60" height="60">
     </td>
     <td>
       Text 1
     </td>
     <td>
-      <img src="/bio_pics/john.jpg" width="20" height="20">
+      <img src="/bio_pics/john.jpg" width="60" height="60">
     </td>
     <td>
       Text 2
@@ -23,16 +23,16 @@ layout: default
   </tr>
   <tr>
     <td>
-      <img src="/bio_pics/anya.jpg" width="20" height="20">
+      <img src="/bio_pics/anya.jpg" width="60" height="60">
     </td>
     <td>
       Text 3
     </td>
     <td>
-      <img src="/bio_pics/kristina.jpg" width="20" height="20">
+      <img src="/bio_pics/kristina.jpg" width="60" height="60">
     </td>
     <td>
-      Text 4
+      Kristina is a senior data science student at UC San Diego with a passion for solving complex problems using data-driven insights. Throughout her academic career, Kristina has gained hands-on experience in a variety of data-related projects, including building predictive models, analyzing large datasets, and developing data visualizations. As she prepares to transition into the workforce, Kristina is excited to continue developing her skills and making meaningful contributions to the field of data science.
     </td>
   </tr>
 </table>
