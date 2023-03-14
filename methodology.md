@@ -27,7 +27,7 @@ These six functions represent the core functionalities of our decentralized web 
 ![sc_struct](sc_struct.PNG)
 
 ## App Structure 
-The _Factory_ and _Service_ smart contracts work with a custom built front end to enable the decentralized application. The front end is built using React.js, Next.js, as well as some basic Javascript. Below you can see the pipeline of our application making use of all of these technologies and can test these functionalities out by accessing our [Demo](./demo.html)
+The _Factory_ and _Service_ smart contracts work with a custom built front end to enable the decentralized application. The front end is built using React.js, Next.js, as well as some basic Javascript. Below you can see the pipeline of our application making use of all of these technologies and can test these functionalities out by accessing our [demo](./demo.html)
 
 ![app_struct](app_struct.PNG)
 
