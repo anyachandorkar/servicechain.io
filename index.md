@@ -1,4 +1,5 @@
 [Methodology](./methodology.html)                              [Demo](./demo.html)                           [About Us](./about-us.html)
+<a href="Methodology">./methodology.html</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="Demo">./demo.html</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="About Us">./about-us.html</a>
 
 # Introduction
 
@@ -24,14 +25,11 @@ And the combination of this chaining structure with proof of work/stake methodol
 ### Specific attributes of the blockchain 
 
 * Immutable Nature
-> Chaining makes it hard for individuals to change/tamper with past records
-> Outputs reflected through blockchain automatically gain a good ethos and credibility
+> Chaining makes it hard for individuals to change/tamper with past records and outputs reflected through blockchain automatically gain good credibility
 * Persistence of Data 
-> Chaining and replication makes it hard for data to be lost
-> Graph structure of blockchain allows data to be easily queried
+> Chaining and replication makes it hard for data to be lost and graph structure of blockchain allows data to be easily queried
 * Timestamping Attributes 
-> Easily access records according to time of entry
-> Analyze trends and patterns of specific features 
+> Easily access records according to time of entry and analyze trends and patterns of specific features 
 
 
 
