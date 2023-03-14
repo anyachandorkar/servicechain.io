@@ -8,6 +8,7 @@ layout: default
 
 ## Vineet Tallavajhala 
 <img src="/bio_pics/vineet.png" width="120" height="120">
+
 Vineet is a Data Science and Business Economics double major with interests in fintech, venture capital, and blockchain. After graduation, Vineet plans on joining Amazon Web Services on the CodeGuru Science team as a software engineer. In his free time Vineet likes playing basketball, watching the Kansas City Chiefs, and gaming.
 > **Linkedin:** https://www.linkedin.com/in/vineettalla
       
