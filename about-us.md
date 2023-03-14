@@ -6,10 +6,36 @@ layout: default
 
 # About Us 
 
-| Vineet Tallavajhala | Anya Chandorkar | John Mauricio | Kristina Shahatit |
-| --- | --- | --- | --- |
-| ![Image 1](/bio_pics/vineet.png){ width=50px } | ![Image 2](/bio_pics/anya.jpg){ width=50px } | ![Image 3](/bio_pics/john.jpg){ width=50px } | ![Image 4](/bio_pics/kristina.jpg){ width=50px }  |
-| This is some more text in column 1. | lsjs | This is some more text in column 3. | kajdnknj |
+<table>
+  <tr>
+    <td>
+      <img src="/bio_pics/vineet.png" width="20" height="20">
+    </td>
+    <td>
+      Text 1
+    </td>
+    <td>
+      <img src="/bio_pics/john.jpg" width="20" height="20">
+    </td>
+    <td>
+      Text 2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/bio_pics/anya.jpg" width="20" height="20">
+    </td>
+    <td>
+      Text 3
+    </td>
+    <td>
+      <img src="/bio_pics/kristina.jpg" width="20" height="20">
+    </td>
+    <td>
+      Text 4
+    </td>
+  </tr>
+</table>
 
 
 [back](./)
