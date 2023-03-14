@@ -30,9 +30,9 @@ Once an employee logs in they have access to:
 * Performance dashboard with aggregate stats on their average rating and total tips
 * All customer names with their ratings and tips 
 
-![Hours](hr_req.PNG)
+![Hours](hr_req.png)
 
-![Stats](emp_stats.PNG)
+![Stats](emp_stats.png)
 
 ## Manager Experience 
 Once a manager logs in they have access to: 
