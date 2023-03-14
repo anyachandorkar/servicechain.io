@@ -14,6 +14,9 @@ Below you will get a walkthrough tutorial of the customer, employee, and user in
 
 ## Customer Experience 
 Once a customer logs in and choose the business to interact with: 
+> test username: sr@gmail.com
+> 
+> test password: password 
 
 * Tip the service worker in ethereum that is transferred instantaneously
 * Pay the bill which is automatically received by business
