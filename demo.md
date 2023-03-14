@@ -2,7 +2,8 @@
 layout: default
 ---
 
-[back](./)
+<a href="./methodology.html">Methodology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./demo.html">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./about-us.html">About Us</a>
+
 # Application Demo 
 Below you will get a walkthrough tutorial of the customer, employee, and user interfaces and can access our interactive react based front end here to try out the different functionalities yourself. 
 
@@ -18,9 +19,9 @@ Once a customer logs in and choose the business to interact with:
 * Pay the bill which is automatically received by business
 * Give the service worker a rating from 1-5 stars
 
-! [Rating](send_rating.PNG)
+![Rating](send_rating.PNG)
 
-! [Tipping](send_tip.PNG)
+![Tipping](send_tip.PNG)
 
 ## Employee Experience 
 Once an employee logs in they have access to: 
@@ -29,9 +30,9 @@ Once an employee logs in they have access to:
 * Performance dashboard with aggregate stats on their average rating and total tips
 * All customer names with their ratings and tips 
 
-! [Hours](hr_req.PNG)
+![Hours](hr_req.PNG)
 
-! [Stats](emp_stats.PNG)
+![Stats](emp_stats.PNG)
 
 ## Manager Experience 
 Once a manager logs in they have access to: 
@@ -40,15 +41,15 @@ Once a manager logs in they have access to:
 * The ability to create a new business/warehouse 
 * A performance dashboard axposed to aggregate statistics on the business
 > * Total balance
-> * # Approvals made
+> * Number of approvals made
 > * Detailed performance of each employee (average star rating, tips)
 
-! [Service](create_service.PNG)
+![Service](create_service.PNG)
 
-! [Stats](mger_stats.PNG)
+![Stats](mger_stats.PNG)
 
 
-
+[back](./)
 
 
 
