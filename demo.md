@@ -5,7 +5,7 @@ layout: default
 <a href="./index.html">Introduction</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./methodology.html">Methodology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./demo.html">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./about-us.html">About Us</a>
 
 # Application Demo 
-Below you will get a walkthrough tutorial of the customer, employee, and user interfaces and can access our interactive react based front end [here](https://servicechain-io.vercel.app/) to try out the different functionalities yourself. 
+Below you will get a walkthrough tutorial of the customer, employee, and user interfaces and can access our interactive react based front end [here](https://servicechain-io.vercel.app/) to try out the different functionalities yourself. The respective login credentials are given with each actor's section. 
 
 ## Actors 
 * The company has the primary responsibility of setting up the instance of the factory contract where most of the services will take place and has the latter responsibility of monitoring and verifying employee submitted hours 
@@ -28,6 +28,9 @@ Once a customer logs in and choose the business to interact with:
 
 ## Employee Experience 
 Once an employee logs in they have access to: 
+> test username: je@gmail.com
+> 
+> test password: password 
 
 * Logging table where they can enter work hours/day of week
 * Performance dashboard with aggregate stats on their average rating and total tips
@@ -39,6 +42,9 @@ Once an employee logs in they have access to:
 
 ## Manager Experience 
 Once a manager logs in they have access to: 
+> test username: jm@gmail.com
+> 
+> test password: password 
 
 * The ability to approve hours requested by employees 
 * The ability to create a new business/warehouse 
