@@ -4,7 +4,19 @@ layout: default
 
 <a href="./index.html">Introduction</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./methodology.html">Methodology</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./demo.html">Demo</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="./about-us.html">About Us</a>
 
-# Application Demo 
+# Using the App
+
+Currently our app only works if you have a metamask account since this is a way to interact with the ethereum blockchain with little to no work.
+1. Download [Metamask](https://metamask.io/download/) 
+2. Create an Account
+3. You should be prompted to a screen like this.
+<br><img src ="https://user-images.githubusercontent.com/80795080/225046985-9b79bf0b-86fd-4da8-9023-0908b620ea22.png" width ='200' height ='300'><br> 
+**Make sure to switch your network to the Goerli Test Network**
+<br>
+5. Optionally if you wish to use actions in our app like sending ratings, tips, etc. You must load your account with test ether. In order to do so go to to a [faucet](https://goerlifaucet.com/) and paste your public address from metamask which is the highlighted value in the image below.
+<br> <br><img src ="https://user-images.githubusercontent.com/80795080/225049758-e570310c-452a-4a9b-98ce-92e9aa570ba1.png"><br> 
+6. Head to our [website](https://servicechain-io.vercel.app/) and click signup to create your own account and use the app! 
+
 Below you will get a walkthrough tutorial of the customer, employee, and user interfaces and can access our interactive react based front end [here](https://servicechain-io.vercel.app/) to try out the different functionalities yourself. The respective login credentials are given with each actor's section. 
 
 ## Actors 
