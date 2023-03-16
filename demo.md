@@ -10,6 +10,7 @@ Currently our app only works if you have a metamask account since this is a way 
 1. Download [Metamask](https://metamask.io/download/) 
 2. Create an Account
 3. You should be prompted to a screen like this.
+
 <br><img src ="https://user-images.githubusercontent.com/80795080/225046985-9b79bf0b-86fd-4da8-9023-0908b620ea22.png" width ='200' height ='300'><br> 
 **Make sure to switch your network to the Goerli Test Network**
 <br>
