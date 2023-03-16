@@ -12,8 +12,9 @@ Currently our app only works if you have a metamask account since this is a way 
 3. You should be prompted to a screen like this.
 
 <br><img src ="https://user-images.githubusercontent.com/80795080/225046985-9b79bf0b-86fd-4da8-9023-0908b620ea22.png" width ='200' height ='300'><br> 
+
 **Make sure to switch your network to the Goerli Test Network**
-<br>
+
 5. Optionally if you wish to use actions in our app like sending ratings, tips, etc. You must load your account with test ether. In order to do so go to to a [faucet](https://goerlifaucet.com/) and paste your public address from metamask which is the highlighted value in the image below.
 <br> <br><img src ="https://user-images.githubusercontent.com/80795080/225049758-e570310c-452a-4a9b-98ce-92e9aa570ba1.png"><br> 
 6. Head to our [website](https://servicechain-io.vercel.app/) and click signup to create your own account and use the app! 
